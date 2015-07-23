@@ -1,0 +1,18 @@
+body {
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0;
+}
+
+a.mdl-badge {
+	font-style: normal;
+	color: white;
+	font-size: 13px;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+footer.mdl-mini-footer.white {
+	background-color: initial;
+}
