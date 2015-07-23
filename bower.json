@@ -1,0 +1,19 @@
+{
+  "name": "MDL Template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/joeybronner/material-design-lite-template",
+  "authors": [
+    "Joey Bronner <joeybronner@gmail.com>"
+  ],
+  "description": "Material Design Lite template",
+  "main": "index.html",
+  "keywords": [
+    "google",
+    "material",
+    "design"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "material-design-lite": "~1.0.0"
+  }
+}
